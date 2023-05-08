@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Thomas Chin</h1>
 <h3 align="center">I am a software engineer with a passion for artificial intelligence, machine learning, and databases</h3>
 
