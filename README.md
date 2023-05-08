@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas Chin</h1>
+<h1 align="center">Thomas Chin</h1>
 <h3 align="center">I am a software engineer with a passion for artificial intelligence, machine learning, and databases</h3>
 
 - 🔭 I’m currently working on my Personal Website and [Deep Learning Playground](https://github.com/DSGT-DLP/Deep-Learning-Playground)
