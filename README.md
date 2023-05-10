@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/thomaschin35](github.com/thomaschin35)
 
-- 📝 I regularly write articles on [https://medium.com/@karkir0003](https://medium.com/@karkir0003)
-
 - 📫 How to reach me **thomas081904@gmail.com**
 
 - 😄 Pronouns: He/Him
